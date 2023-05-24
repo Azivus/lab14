@@ -355,3 +355,5 @@ lab14
     └──	main.c
 ```
 ### **Скріншоти**
+![Program](https://github.com/Azivus/lab14/blob/main/Снимок%20экрана%20(3904).png)
+![Program](https://github.com/Azivus/lab14/blob/main/Снимок%20экрана%20(3908).png)
